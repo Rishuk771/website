@@ -7,6 +7,9 @@
     },
     "/statusboard": {
       "origin": "https://ember-learn.github.io/statusboard/"
+    },
+    "/deprecations": {
+      "origin": "https://deprecations-app-prod.herokuapp.com/"
     }
   },
   "error_page": "404.html",
