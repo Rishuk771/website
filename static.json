@@ -9,7 +9,7 @@
       "origin": "https://ember-learn.github.io/statusboard/"
     },
     "/deprecations": {
-      "origin": "https://deprecations-app-prod.herokuapp.com/"
+      "origin": "https://ember-deprecation-app.global.ssl.fastly.net/"
     }
   },
   "error_page": "404.html",
